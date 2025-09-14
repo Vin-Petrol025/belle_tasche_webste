@@ -437,7 +437,7 @@ const products = [
     inStock: 1,
   },
   {
-    id: 31,
+    id: 33,
     name: "Large copper bag",
     price: "PKR 4500/-",
     image: "content/bags/DSC00335.webp",

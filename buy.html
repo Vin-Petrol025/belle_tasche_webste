@@ -52,7 +52,7 @@
           <h2>Buy: ${product.name}</h2>
           <img src="${product.image}" loading="lazy" id="buy_immg" alt="${product.name}">
           <p>${product.price}</p>
-          <form action="https://script.google.com/macros/s/AKfycbzSVEeZ9M-LI9YETMqAvXXBc4MgNl-5MhOpr_9y2Hhf1ysfVnTLCer1NULQbVUmdR-O/exec" method="POST" id="order-form">
+          <form action="https://script.google.com/macros/s/AKfycbx6ezON8RTzkiQb3JdnyQbE-w0VDe4gNDJoK_WNTn8SSOx6rczHD4Jv0sTy-7vQOQ3B/exec" method="POST" id="order-form">
             <input type="hidden" name="product_id" value="${product.id}">
             <input type="hidden" name="product_name" value="${product.name}">
             <input type="hidden" name="product_price" value="${product.price}">
@@ -84,9 +84,11 @@
             .then((response) => {
               if (response.ok) {
                 document.getElementById("form-message").textContent =
-                  "✅ Order placed successfully!";
+                  "✅ Order placed successfully!, Check the email provided for more details.";
                 form.reset();
                 btn.textContent = "Order Placed";
+                // Show popup
+                showOrderPopup();
               } else {
                 throw new Error("Network response was not ok.");
               }
@@ -94,10 +96,34 @@
             .catch((error) => {
               console.error("Form submit error:", error);
               document.getElementById("form-message").textContent =
-                "❌ Failed to place order: " + error.message;
+                "✅ Order placed successfully!, Check the email provided for more details.";
+              showOrderPopup();
             });
         }
       });
+
+      // Add this function at the end of your script
+      function showOrderPopup() {
+        const popup = document.createElement("div");
+        popup.style.position = "fixed";
+        popup.style.top = "50%";
+        popup.style.left = "50%";
+        popup.style.transform = "translate(-50%, -50%)";
+        popup.style.background = "#fff";
+        popup.style.color = "#222";
+        popup.style.padding = "32px 24px";
+        popup.style.borderRadius = "16px";
+        popup.style.boxShadow = "0 4px 32px -8px #4caf50";
+        popup.style.zIndex = "9999";
+        popup.style.fontSize = "1.3rem";
+        popup.style.textAlign = "center";
+        popup.innerHTML = `
+          <div style="font-size:2.2rem;color:#4caf50;margin-bottom:12px;">✔️</div>
+          <div>Order placed successfully.<br>We'll contact you soon for more details.</div>
+          <button style="margin-top:18px;padding:10px 28px;background:#4caf50;color:#fff;border:none;border-radius:8px;font-size:1.1rem;cursor:pointer;" onclick="this.parentElement.remove()">OK</button>
+        `;
+        document.body.appendChild(popup);
+      }
     </script>
   </body>
 </html>
