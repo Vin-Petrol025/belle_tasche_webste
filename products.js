@@ -373,7 +373,7 @@ const products = [
   {
     id: 29,
     name: "Red Clutch",
-    price: "PKR 4500/-",
+    price: "PKR 3800/-",
     image: "content/bags/DSC00311.webp",
     images: [
       "content/bags/DSC00311.webp",
@@ -389,7 +389,7 @@ const products = [
   {
     id: 30,
     name: "Orange Tote Bag ",
-    price: "PKR 4500/-",
+    price: "PKR 3800/-",
     image: "content/bags/DSC00315.webp",
     images: [
       "content/bags/DSC00315.webp",
@@ -407,7 +407,7 @@ const products = [
   {
     id: 31,
     name: "Golden Clutch ",
-    price: "PKR 4500/-",
+    price: "PKR 2600/-",
     image: "content/bags/DSC00321.webp",
     images: [
       "content/bags/DSC00321.webp",
@@ -423,7 +423,7 @@ const products = [
   {
     id: 32,
     name: "Skin and Brown Michael kors",
-    price: "PKR 4500/-",
+    price: "PKR 4200/-",
     image: "content/bags/DSC00330.webp",
     images: [
       "content/bags/DSC00330.webp",
@@ -438,8 +438,8 @@ const products = [
   },
   {
     id: 33,
-    name: "Large copper bag",
-    price: "PKR 4500/-",
+    name: "Large copper colored bag",
+    price: "PKR 4000/-",
     image: "content/bags/DSC00335.webp",
     images: [
       "content/bags/DSC00321.webp",
