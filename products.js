@@ -452,4 +452,132 @@ const products = [
       "Golden Clutch, perfect for evening outings. This glamorous and chic clutch is designed to hold your essentials while adding a touch of luxury to your outfit. The golden color is radiant and eye-catching.",
     inStock: 1,
   },
+  {
+    id: 34,
+    name: "Black Leather Wallet smooth texture",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00492.JPG",
+    images: [
+      "content/bags/DSC00492.JPG",
+      "content/bags/DSC00493.JPG",
+      "content/bags/DSC00496.JPG",
+    ],
+    shortDescription: "Smooth black leather wallet, sleek and modern.",
+    description:
+      "Discover the elegance of this smooth black leather wallet. Its modern design and soft texture make it a must-have for those who appreciate style and practicality. Multiple compartments keep your essentials organized, while the classic black finish suits any occasion.",
+    inStock: 1,
+  },
+  {
+    id: 35,
+    name: "Brown Leather Wallet Grainy texture",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00500.JPG",
+    images: [
+      "content/bags/DSC00500.JPG",
+      "content/bags/DSC00501.JPG",
+      "content/bags/DSC00504.JPG",
+      "content/bags/DSC00534.JPG",
+    ],
+    shortDescription: "Grainy brown leather wallet, rustic and bold.",
+    description:
+      "Embrace rustic charm with this grainy brown leather wallet. Its bold texture and sturdy build make it perfect for everyday use. Enjoy ample space for cards and cash, all wrapped in a warm brown hue that stands out.",
+    inStock: 1,
+  },
+  {
+    id: 36,
+    name: "Black Leather Wallet Smooth texture with zipper",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00505.JPG",
+    images: [
+      "content/bags/DSC00505.JPG",
+      "content/bags/DSC00507.JPG",
+      "content/bags/DSC00507.JPG",
+    ],
+    shortDescription: "Black leather wallet with zipper, secure and stylish.",
+    description:
+      "Keep your valuables safe with this black leather wallet featuring a secure zipper. Its smooth texture and compact design make it ideal for those on the go. The classic black color ensures it matches any outfit, day or night.",
+    inStock: 1,
+  },
+  {
+    id: 37,
+    name: "Black Leather Wallet Grainy texture",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00508.JPG",
+    images: [
+      "content/bags/DSC00508.JPG",
+      "content/bags/DSC00509.JPG",
+      "content/bags/DSC00511.JPG",
+      "content/bags/DSC00533.JPG",
+    ],
+    shortDescription: "Textured black leather wallet, bold and durable.",
+    description:
+      "Make a statement with this textured black leather wallet. Its bold grain and durable construction are perfect for those who value both style and strength. Plenty of room for your essentials, all in a wallet that lasts.",
+    inStock: 1,
+  },
+  {
+    id: 38,
+    name: "Black Leather Wallet Grainy texture, Small size",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00514.JPG",
+    images: [
+      "content/bags/DSC00514.JPG",
+      "content/bags/DSC00515.JPG",
+      "content/bags/DSC00517.JPG",
+      "content/bags/DSC00537.JPG",
+    ],
+    shortDescription: "Compact black wallet, textured and handy.",
+    description:
+      "Enjoy convenience with this compact black wallet. Its textured leather finish and small size make it easy to carry, while still offering enough space for your cards and cash. Perfect for minimalists who love a touch of luxury.",
+    inStock: 1,
+  },
+  {
+    id: 39,
+    name: "Brown Leather Wallet Grainy texture, Big size",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00517.JPG",
+    images: [
+      "content/bags/DSC00517.JPG",
+      "content/bags/DSC00519.JPG",
+      "content/bags/DSC00520.JPG",
+      "content/bags/DSC00536.JPG",
+    ],
+    shortDescription: "Large brown wallet, textured and spacious.",
+    description:
+      "Go big with this large brown wallet. Its textured leather and spacious interior are perfect for those who need extra room. The warm brown color and sturdy build make it a reliable companion for everyday use.",
+    inStock: 1,
+  },
+  {
+    id: 40,
+    name: "Brown Leather Wallet Grainy texture, Full leather",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00521.JPG",
+    images: [
+      "content/bags/DSC00521.JPG",
+      "content/bags/DSC00522.JPG",
+      "content/bags/DSC00523.JPG",
+      "content/bags/DSC00535.JPG",
+    ],
+    shortDescription: "Full-grain brown leather wallet, classic and robust.",
+    description:
+      "Experience timeless style with this full-grain brown leather wallet. Crafted for durability and elegance, it features a rich texture and spacious compartments for all your essentials. The perfect blend of luxury and practicality for everyday use.",
+    inStock: 1,
+  },
+  {
+    id: 41,
+    name: "Brown Leather Wallet Smooth texture, Big size",
+    price: "PKR 4000/-",
+    image: "content/bags/DSC00524.JPG",
+    images: [
+      "content/bags/DSC00524.JPG",
+      "content/bags/DSC00525.JPG",
+      "content/bags/DSC00527.JPG",
+      "content/bags/DSC00528.JPG",
+      "content/bags/DSC00541.JPG",
+    ],
+    shortDescription:
+      "Large brown wallet with smooth finish, spacious and refined.",
+    description:
+      "Upgrade your accessories with this large brown leather wallet. Its smooth finish and generous size make it ideal for those who need extra space without sacrificing style. Multiple pockets and a refined look ensure you stay organized and elegant.",
+    inStock: 1,
+  },
 ];
