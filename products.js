@@ -470,7 +470,7 @@ const products = [
   {
     id: 35,
     name: "Brown Leather Wallet Grainy texture",
-    price: "PKR 4000/-",
+    price: "PKR 1550/-",
     image: "content/bags/DSC00500.JPG",
     images: [
       "content/bags/DSC00500.JPG",
@@ -501,7 +501,7 @@ const products = [
   {
     id: 37,
     name: "Black Leather Wallet Grainy texture",
-    price: "PKR 4000/-",
+    price: "PKR 1550/-",
     image: "content/bags/DSC00508.JPG",
     images: [
       "content/bags/DSC00508.JPG",
@@ -517,7 +517,7 @@ const products = [
   {
     id: 38,
     name: "Black Leather Wallet Grainy texture, Small size",
-    price: "PKR 4000/-",
+    price: "PKR 1550/-",
     image: "content/bags/DSC00514.JPG",
     images: [
       "content/bags/DSC00514.JPG",
@@ -549,7 +549,7 @@ const products = [
   {
     id: 40,
     name: "Brown Leather Wallet Grainy texture, Full leather",
-    price: "PKR 4000/-",
+    price: "PKR 2000/-",
     image: "content/bags/DSC00521.JPG",
     images: [
       "content/bags/DSC00521.JPG",
@@ -565,7 +565,7 @@ const products = [
   {
     id: 41,
     name: "Brown Leather Wallet Smooth texture, Big size",
-    price: "PKR 4000/-",
+    price: "PKR 2850/-",
     image: "content/bags/DSC00524.JPG",
     images: [
       "content/bags/DSC00524.JPG",
