@@ -453,6 +453,21 @@ const products = [
     inStock: 1,
   },
   {
+    id: 42,
+    name: "Small black purse",
+    price: "PKR 700/-",
+    image: "content/bags/DSC00342.webp",
+    images: [
+      "content/bags/DSC00342.webp",
+      "content/bags/DSC00341.webp",
+      "content/bags/DSC00340.webp",
+    ],
+    shortDescription: "Small black purse, sleek and compact.",
+    description:
+      "Small black purse, perfect for daily use. This sleek and compact purse is designed to hold your essentials while adding a touch of elegance to your everyday look. The black color is versatile and timeless.",
+    inStock: 1,
+  },
+  {
     id: 34,
     name: "Brown Leather Wallet Smooth texture, Big size",
     price: "PKR 2850/-",
@@ -580,6 +595,85 @@ const products = [
     shortDescription: "Smooth black leather wallet, sleek and modern.",
     description:
       "Discover the elegance of this smooth black leather wallet. Its modern design and soft texture make it a must-have for those who appreciate style and practicality. Multiple compartments keep your essentials organized, while the classic black finish suits any occasion.",
+    inStock: 1,
+  },
+  {
+    id: 42,
+    name: "Black Leather Wallet smooth texture, FULL leather",
+    price: "PKR 2000/-",
+    image: "content/bags/DSC00492.JPG",
+    images: [
+      "content/bags/DSC00492.JPG",
+      "content/bags/DSC00493.JPG",
+      "content/bags/DSC00496.JPG",
+      "content/bags/DSC00539.JPG",
+    ],
+    shortDescription: "Smooth black leather wallet, sleek and modern.",
+    description:
+      "Discover the elegance of this smooth black leather wallet. Its modern design and soft texture make it a must-have for those who appreciate style and practicality. Multiple compartments keep your essentials organized, while the classic black finish suits any occasion.",
+    inStock: 1,
+  },
+  {
+    id: 43,
+    name: "Brown File bag, Very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0006.jpeg",
+    images: [
+      "content/bags/0006.jpeg",
+      "content/bags/0007.jpeg",
+      "content/bags/0008.jpeg",
+    ],
+    shortDescription: "Brown File bag for office use, very spacious.",
+    description:
+      "Brown File bag, perfect for office use. This spacious bag is designed to hold your documents, laptop, and other essentials while adding a touch of professionalism to your outfit. The premium construction ensures durability and a classic look.",
+    inStock: 1,
+  },
+  {
+    id: 44,
+    name: "Blue Bagpack for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0009.jpeg",
+    images: [
+      "content/bags/0009.jpeg",
+      "content/bags/0010.jpeg",
+      "content/bags/0011.jpeg",
+    ],
+    shortDescription:
+      "Blue bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Blue Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 45,
+    name: "Black Bagpack for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0004.jpeg",
+    images: [
+      "content/bags/0004.jpeg",
+      "content/bags/0004.jpeg",
+      "content/bags/0005.jpeg",
+    ],
+    shortDescription:
+      "Black bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Black Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 46,
+    name: "Blue and Pink Bagpack for everyday use, very durable.",
+    price: "PKR 3800/- EACH",
+    image: "content/bags/0002.jpeg",
+    images: [
+      "content/bags/0002.jpeg",
+      "content/bags/0002.jpeg",
+      "content/bags/0003.jpeg",
+    ],
+    shortDescription:
+      "Blue and Pink bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Blue and Pink Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
     inStock: 1,
   },
 ];
