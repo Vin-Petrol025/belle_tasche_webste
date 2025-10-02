@@ -661,19 +661,115 @@ const products = [
     inStock: 1,
   },
   {
-    id: 46,
-    name: "Blue and Pink Bagpack for everyday use, very durable.",
-    price: "PKR 3800/- EACH",
-    image: "content/bags/0002.jpeg",
+    id: 45,
+    name: "Black Bagpack for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0004.jpeg",
     images: [
-      "content/bags/0002.jpeg",
-      "content/bags/0002.jpeg",
-      "content/bags/0003.jpeg",
+      "content/bags/0004.jpeg",
+      "content/bags/0004.jpeg",
+      "content/bags/0005.jpeg",
     ],
     shortDescription:
-      "Blue and Pink bagpack, very spacious and great for college and uviversity use.",
+      "Black bagpack, very spacious and great for college and uviversity use.",
     description:
-      "Blue and Pink Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+      "Black Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 46,
+    name: "Pink Bagpack for girls, Best for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0030.jpg",
+    images: [
+      "content/bags/0030.jpg",
+      "content/bags/0029.jpg",
+      "content/bags/0028.jpg",
+    ],
+    shortDescription:
+      "Pink bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Pink Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 47,
+    name: "Blue Bagpack for girls, Best for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0027.jpg",
+    images: [
+      "content/bags/0027.jpg",
+      "content/bags/0026.jpg",
+      "content/bags/0025.jpg",
+    ],
+    shortDescription:
+      "Blue bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Blue Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 48,
+    name: "Brown Shoulder Bag for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0024.jpg",
+    images: [
+      "content/bags/0024.jpg",
+      "content/bags/0023.jpg",
+      "content/bags/0022.jpg",
+    ],
+    shortDescription:
+      "Brown bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Brown Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 49,
+    name: "Pale-Brown Shoulder Bag for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0021.jpg",
+    images: [
+      "content/bags/0021.jpg",
+      "content/bags/0020.jpg",
+      "content/bags/0019.jpg",
+    ],
+    shortDescription:
+      "Pale-Brown bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Pale-Brown Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 50,
+    name: "Marroon Shoulder Bag for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0018.jpg",
+    images: [
+      "content/bags/0018.jpg",
+      "content/bags/0017.jpg",
+      "content/bags/0016.jpg",
+    ],
+    shortDescription:
+      "Marroon bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Marroon Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
+    inStock: 1,
+  },
+  {
+    id: 51,
+    name: "Beige Shoulder Bag for everyday use, very durable.",
+    price: "PKR 3800/-",
+    image: "content/bags/0018.jpg",
+    images: [
+      "content/bags/0018.jpg",
+      "content/bags/0017.jpg",
+      "content/bags/0016.jpg",
+    ],
+    shortDescription:
+      "Beige bagpack, very spacious and great for college and uviversity use.",
+    description:
+      "Beige Bagpack, perfect for everyday use. This spacious bagpack is designed to hold your books, laptop, and other essentials while adding a touch of style to your outfit. The durable construction ensures it can handle daily wear and tear.",
     inStock: 1,
   },
 ];
