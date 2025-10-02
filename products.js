@@ -760,11 +760,11 @@ const products = [
     id: 51,
     name: "Beige Shoulder Bag for everyday use, very durable.",
     price: "PKR 3800/-",
-    image: "content/bags/0018.jpg",
+    image: "content/bags/0015.jpg",
     images: [
-      "content/bags/0018.jpg",
-      "content/bags/0017.jpg",
-      "content/bags/0016.jpg",
+      "content/bags/0015.jpg",
+      "content/bags/0014.jpg",
+      "content/bags/0013.jpg",
     ],
     shortDescription:
       "Beige bagpack, very spacious and great for college and uviversity use.",
