@@ -679,7 +679,7 @@ const products = [
   {
     id: 46,
     name: "Pink Bagpack for girls, Best for everyday use, very durable.",
-    price: "PKR 3800/-",
+    price: "PKR 2450/-",
     image: "content/bags/0030.jpg",
     images: [
       "content/bags/0030.jpg",
@@ -695,7 +695,7 @@ const products = [
   {
     id: 47,
     name: "Blue Bagpack for girls, Best for everyday use, very durable.",
-    price: "PKR 3800/-",
+    price: "PKR 2450/-",
     image: "content/bags/0027.jpg",
     images: [
       "content/bags/0027.jpg",
@@ -711,7 +711,7 @@ const products = [
   {
     id: 48,
     name: "Brown Shoulder Bag for everyday use, very durable.",
-    price: "PKR 3800/-",
+    price: "PKR 2600/-",
     image: "content/bags/0024.jpg",
     images: [
       "content/bags/0024.jpg",
@@ -727,7 +727,7 @@ const products = [
   {
     id: 49,
     name: "Pale-Brown Shoulder Bag for everyday use, very durable.",
-    price: "PKR 3800/-",
+    price: "PKR 2600/-",
     image: "content/bags/0021.jpg",
     images: [
       "content/bags/0021.jpg",
@@ -743,7 +743,7 @@ const products = [
   {
     id: 50,
     name: "Marroon Shoulder Bag for everyday use, very durable.",
-    price: "PKR 3800/-",
+    price: "PKR 2600/-",
     image: "content/bags/0018.jpg",
     images: [
       "content/bags/0018.jpg",
@@ -759,7 +759,7 @@ const products = [
   {
     id: 51,
     name: "Beige Shoulder Bag for everyday use, very durable.",
-    price: "PKR 3800/-",
+    price: "PKR 2600/-",
     image: "content/bags/0015.jpg",
     images: [
       "content/bags/0015.jpg",
