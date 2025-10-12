@@ -453,7 +453,7 @@ const products = [
     inStock: 1,
   },
   {
-    id: 42,
+    id: 150,
     name: "Small black purse",
     price: "PKR 700/-",
     image: "content/bags/DSC00342.webp",
